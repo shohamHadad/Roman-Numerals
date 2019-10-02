@@ -57,11 +57,11 @@ for example:
 
 Roman to Decimal
 ===============
-General structure: 
-User input : Roman chars
-Input validation:
-Non decimal, Roman characters validity 
-In addition, substring validity: for example, such a sub string "VV" may not represent Roman numerals
+**General structure:** 
+1. User input : Roman chars
+2. Input validation:
+	- Non decimal, Roman characters validity 
+	- In addition, substring validity: for example, such a sub string "VV" may not represent Roman numerals
 3. Conversion done using a pre-defined Roman numerals dictionary (see conversion code provided below) 
 
 
