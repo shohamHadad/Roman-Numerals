@@ -2,14 +2,14 @@
 Roman numeral calculator
 
 
-Python program Roman numerals converter: 
+**Python program Roman numerals converter:** 
 * Decimal to Roman
-* Roman to Decimal 
+* Roman to Decimal**
 
-Installation: 
+**Installation:** 
 - Install Python 3
 z
-Usage: 
+**Usage:**
 - cd  /program-folder
 - python main.py
 
@@ -17,10 +17,10 @@ Usage:
 Decimal to Roman
 ===============
 General structure: 
-User input : Decimal number
-Input validation:
-Valid decimal check 
-Decimal inserted is in the Roman numerals range: [ 1 - 3,999,999 ]
+1. User input : Decimal number
+2. Input validation:
+	Valid decimal check 
+	Decimal inserted is in the Roman numerals range: [ 1 - 3,999,999 ]
 Conversion done using a pre-defined Roman numerals map (see convertion code provided below) 
 
 Conversion code:
