@@ -51,23 +51,7 @@ So to calculate a number greater than 3,999 that can be represented as a regular
 Therefore if the user enters a number greater than 3,999 when the result is printed, the number will be printed with the top line accordingly
 for example:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![input and output](https://user-images.githubusercontent.com/33810472/66060340-2869bb00-e546-11e9-83b3-fdab871d35a0.png)
 
 
 
