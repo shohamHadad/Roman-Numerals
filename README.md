@@ -8,7 +8,7 @@ Roman numeral calculator
 
 **Installation:** 
 - Install Python 3
-z
+
 **Usage:**
 - cd  /program-folder
 - python main.py
@@ -19,11 +19,12 @@ Decimal to Roman
 General structure: 
 1. User input : Decimal number
 2. Input validation:
-	Valid decimal check 
-	Decimal inserted is in the Roman numerals range: [ 1 - 3,999,999 ]
-Conversion done using a pre-defined Roman numerals map (see convertion code provided below) 
+	- Valid decimal check 
+	- Decimal inserted is in the Roman numerals range: [ 1 - 3,999,999 ]
+3. Conversion done using a pre-defined Roman numerals map (see convertion code provided below) 
 
-Conversion code:
+
+**Conversion code:**
 Input: inputNumber
 decimalsMap = [1000,900,500,400,100…….]
 romanNumeralsMap = [M,CM,D,CD,C…..]
@@ -35,8 +36,10 @@ while(inputNumber>0):
 		inputNumber -= DecimalsMap[i]
 	else:
 i +=1
-return result 
-Remarks:
+return result
+
+
+**Remarks:**
 Large numbers are represented with line above the number. 
 An upper line above a numeral or Roman number symbolizes multiplying by 1,000 for example:
 
