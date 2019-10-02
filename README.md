@@ -79,10 +79,5 @@ result  += romanNumeralsDict[romanInput[1]]
 
 return result 
 
-
-
-
-
-
-
+![input and output example 2](https://user-images.githubusercontent.com/33810472/66060821-f60c8d80-e546-11e9-879a-9c4b9d9ef9a3.png)
 
