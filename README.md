@@ -43,6 +43,9 @@ return result
 Large numbers are represented with line above the number. 
 An upper line above a numeral or Roman number symbolizes multiplying by 1,000 for example:
 
+![תמונה להערות](https://user-images.githubusercontent.com/33810472/66054042-1420c080-e53c-11e9-89a4-2aeeee4f4040.png)
+
+
 So to calculate a number greater than 3,999 that can be represented as a regular without a top line, I added an array that contains only the representation of the top line for all numbers
 
 Therefore if the user enters a number greater than 3,999 when the result is printed, the number will be printed with the top line accordingly
