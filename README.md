@@ -11,7 +11,7 @@ Roman numeral calculator
 
 **Usage:**
 - cd  /program-folder
-- python main.py
+- python3 main.py
 
 
 Decimal to Roman
