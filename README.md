@@ -4,7 +4,7 @@ Roman numeral calculator
 
 **Python program Roman numerals converter:** 
 * Decimal to Roman
-* Roman to Decimal**
+* Roman to Decimal
 
 **Installation:** 
 - Install Python 3
